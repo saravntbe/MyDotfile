@@ -2,6 +2,8 @@
 source ~/.bash_git
 #git include path
 export PATH="/usr/local/bin:$PATH"
+#sublime text alias
+alias subl = 'open -a Sublime\ Text\ 2'
 
 # Set CLICOLOR if you want Ansi Colors in iTerm2 
   export CLICOLOR=1
