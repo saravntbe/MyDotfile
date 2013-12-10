@@ -9,18 +9,11 @@ ___
 
 ![Sample screenshot](img/apple_mac.png)
 
-
 * Clone The Repository.
-
 * copy apple.zsh-theme to theme folder.
 * `cp themes/saravan.zsh-theme  ~/.oh-my-zsh/themes/saravan.zsh-theme `
-
 * To use: Set `ZSH_THEME` in `~/.zshrc` to `saravan`.
-
 * _To get large apple icon,change non-ASCII font-size
 in iTerm --> Preference --> Profiles --> Text._ 
-
-
-***
 
 
